@@ -1,0 +1,17 @@
+.button_book_reader69 button {
+    border-radius: 2px;
+    padding: 8px;
+    /*background-color: #a0a50a;*/
+}
+.span_padding span{
+    /*display: flex;*/
+    /*align-self: flex-end;*/
+    /*align-items: center;*/
+    /*child-align: right;*/
+    padding-right: 5px;
+}
+.container {
+    display: flex;
+    /*align-items: flex-end;*/
+    justify-content: flex-end;
+}
